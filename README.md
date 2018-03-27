@@ -1,4 +1,4 @@
-## SharePoint-2013-Business-Intelligence
+# SharePoint-2013-Business-Intelligence
 
 ## PowerPivot with Excel 2013
 
