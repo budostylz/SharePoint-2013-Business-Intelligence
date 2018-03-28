@@ -11,3 +11,7 @@ https://www.youtube.com/watch?v=16YqtjEBQM8
 ## 13 Charting Tools to help build a SharePoint dashboard
 
 https://collab365.community/13-charting-tools-help-build-sharepoint-dashboard/
+
+## How to Create Bullet Charts and Graphs in Excel
+
+https://www.youtube.com/watch?v=Sc9GRW0DmWw
