@@ -15,3 +15,9 @@ https://collab365.community/13-charting-tools-help-build-sharepoint-dashboard/
 ## How to Create Bullet Charts and Graphs in Excel
 
 https://www.youtube.com/watch?v=Sc9GRW0DmWw
+
+## How to show SharePoint list data in a pivot table
+
+https://www.youtube.com/watch?v=lADC3tK7LOk
+
+
