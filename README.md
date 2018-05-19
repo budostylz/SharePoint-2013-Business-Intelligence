@@ -20,4 +20,17 @@ https://www.youtube.com/watch?v=Sc9GRW0DmWw
 
 https://www.youtube.com/watch?v=lADC3tK7LOk
 
+## Introducing Web Analytics in SharePoint 2010
+
+https://blogs.msdn.microsoft.com/ecm/2010/03/20/introducing-web-analytics-in-sharepoint-2010/
+
+## Web Analytics In SharePoint Server 2013
+
+https://www.c-sharpcorner.com/article/web-analytics-in-sharepoint-server-2013/
+
+## HOW TO: Retrieve Web Analytics report data using API
+
+https://blogs.technet.microsoft.com/sharepointdevelopersupport/2012/10/04/how-to-retrieve-web-analytics-report-data-using-api/
+
+
 
