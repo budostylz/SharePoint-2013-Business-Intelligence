@@ -32,5 +32,10 @@ https://www.c-sharpcorner.com/article/web-analytics-in-sharepoint-server-2013/
 
 https://blogs.technet.microsoft.com/sharepointdevelopersupport/2012/10/04/how-to-retrieve-web-analytics-report-data-using-api/
 
+## Database types and descriptions in SharePoint Server
+ 
+https://docs.microsoft.com/en-us/sharepoint/technical-reference/database-types-and-descriptions
+ 
+
 
 
