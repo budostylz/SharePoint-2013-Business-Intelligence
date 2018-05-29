@@ -47,6 +47,10 @@ https://support.office.com/en-us/article/what-is-a-business-intelligence-center-
  ## Simple (but effective) dashboards in SharePoint
  
  http://icansharepoint.com/simple-but-effective-dashboards-in-sharepoint/
+ 
+ ## Overview of analytics processing in SharePoint Server
+ 
+ https://docs.microsoft.com/en-us/sharepoint/search/overview-of-analytics-processing
 
 
 
