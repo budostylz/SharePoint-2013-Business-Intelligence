@@ -40,6 +40,9 @@ https://docs.microsoft.com/en-us/sharepoint/technical-reference/database-types-a
 
 https://support.office.com/en-us/article/what-is-a-business-intelligence-center-dcd208d0-f50b-46fb-ac8a-3c9a8b2ab357
  
+ ## New Analytics in SharePoint 2013
+ 
+ https://en.share-gate.com/blog/new-sharepoint-2013-analytics
 
 
 
