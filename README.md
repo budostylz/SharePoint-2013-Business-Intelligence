@@ -35,6 +35,10 @@ https://blogs.technet.microsoft.com/sharepointdevelopersupport/2012/10/04/how-to
 ## Database types and descriptions in SharePoint Server
  
 https://docs.microsoft.com/en-us/sharepoint/technical-reference/database-types-and-descriptions
+
+## What is a Business Intelligence Center?
+
+https://support.office.com/en-us/article/what-is-a-business-intelligence-center-dcd208d0-f50b-46fb-ac8a-3c9a8b2ab357
  
 
 
