@@ -43,6 +43,10 @@ https://support.office.com/en-us/article/what-is-a-business-intelligence-center-
  ## New Analytics in SharePoint 2013
  
  https://en.share-gate.com/blog/new-sharepoint-2013-analytics
+ 
+ ## Simple (but effective) dashboards in SharePoint
+ 
+ http://icansharepoint.com/simple-but-effective-dashboards-in-sharepoint/
 
 
 
