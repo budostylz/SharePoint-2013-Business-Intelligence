@@ -76,4 +76,8 @@ https://docs.microsoft.com/en-us/sharepoint/administration/view-usage-reports
 
 http://www.sharepointtalk.net/2014/02/create-and-use-own-usage-event-type-in.html
 
+## Unregister Custom usage event type in SharePoint 2013 Using Powershell
+
+https://social.technet.microsoft.com/Forums/windows/en-US/f7af4bfd-5dc2-48c0-96f0-140f0b73f682/how-to-delete-custom-usage-event-type-in-sharepoint-2013-?forum=sharepointsearch
+
 
