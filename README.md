@@ -52,5 +52,8 @@ https://support.office.com/en-us/article/what-is-a-business-intelligence-center-
  
  https://docs.microsoft.com/en-us/sharepoint/search/overview-of-analytics-processing
 
+## Chapter1 - SharePoint 2013 Analytics Feature tutorial
+
+https://www.youtube.com/watch?v=RszcqEUQbMM
 
 
