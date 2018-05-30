@@ -68,4 +68,8 @@ https://msdn.microsoft.com/en-us/library/office/jj860569.aspx
 
 https://docs.microsoft.com/en-us/sharepoint/administration/configure-recommendations-and-usage-event-types
 
+## Configure recommendations and usage event types in SharePoint Server
+
+https://docs.microsoft.com/en-us/sharepoint/administration/view-usage-reports
+
 
