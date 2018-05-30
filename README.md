@@ -56,4 +56,8 @@ https://support.office.com/en-us/article/what-is-a-business-intelligence-center-
 
 https://www.youtube.com/watch?v=RszcqEUQbMM
 
+## View and configure usage analytics reports in SharePoint Server
+
+https://github.com/budostylz/SharePoint-2013-Business-Intelligence/edit/master/README.md
+
 
