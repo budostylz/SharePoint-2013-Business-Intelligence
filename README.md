@@ -60,4 +60,8 @@ https://www.youtube.com/watch?v=RszcqEUQbMM
 
 https://github.com/budostylz/SharePoint-2013-Business-Intelligence/edit/master/README.md
 
+## REST API reference and samples
+
+https://msdn.microsoft.com/en-us/library/office/jj860569.aspx
+
 
