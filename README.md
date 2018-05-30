@@ -72,4 +72,8 @@ https://docs.microsoft.com/en-us/sharepoint/administration/configure-recommendat
 
 https://docs.microsoft.com/en-us/sharepoint/administration/view-usage-reports
 
+## Create and use own usage event type in SharePoint 2013
+
+Create and use own usage event type in SharePoint 2013
+
 
