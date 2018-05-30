@@ -64,4 +64,8 @@ https://github.com/budostylz/SharePoint-2013-Business-Intelligence/edit/master/R
 
 https://msdn.microsoft.com/en-us/library/office/jj860569.aspx
 
+## Configure recommendations and usage event types in SharePoint Server
+
+https://docs.microsoft.com/en-us/sharepoint/administration/configure-recommendations-and-usage-event-types
+
 
