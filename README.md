@@ -74,6 +74,6 @@ https://docs.microsoft.com/en-us/sharepoint/administration/view-usage-reports
 
 ## Create and use own usage event type in SharePoint 2013
 
-Create and use own usage event type in SharePoint 2013
+http://www.sharepointtalk.net/2014/02/create-and-use-own-usage-event-type-in.html
 
 
