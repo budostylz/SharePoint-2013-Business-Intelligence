@@ -80,4 +80,8 @@ http://www.sharepointtalk.net/2014/02/create-and-use-own-usage-event-type-in.htm
 
 https://social.technet.microsoft.com/Forums/windows/en-US/f7af4bfd-5dc2-48c0-96f0-140f0b73f682/how-to-delete-custom-usage-event-type-in-sharepoint-2013-?forum=sharepointsearch
 
+## Analytics Logging
+
+https://books.google.com/books?id=DHHr4kV9dHcC&pg=PA376&lpg=PA376&dq=Create+and+use+custom+usage+event+type+in+SharePoint+2013&source=bl&ots=R_rqWoov_d&sig=twOI6zjqJQmzGqiLkPqzXbmcpcc&hl=en&sa=X&ved=0ahUKEwjXs7XkjLDbAhUS0lMKHY3ZAzEQ6AEIRzAD#v=onepage&q=Create%20and%20use%20custom%20usage%20event%20type%20in%20SharePoint%202013&f=false
+
 
