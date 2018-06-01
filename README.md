@@ -90,3 +90,5 @@ http://www.sharepointdiary.com/2014/05/how-to-integrate-google-analytics-with-sh
 
 http://blog.bananatag.com/internal-comms/setting-up-google-analytics-for-your-intranet-2
 
+http://sharepoint.handsontek.net/2017/02/26/how-to-add-google-analytics-to-sharepoint-without-modifying-the-master-page/
+
