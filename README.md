@@ -84,4 +84,9 @@ https://social.technet.microsoft.com/Forums/windows/en-US/f7af4bfd-5dc2-48c0-96f
 
 https://books.google.com/books?id=DHHr4kV9dHcC&pg=PA376&lpg=PA376&dq=Create+and+use+custom+usage+event+type+in+SharePoint+2013&source=bl&ots=R_rqWoov_d&sig=twOI6zjqJQmzGqiLkPqzXbmcpcc&hl=en&sa=X&ved=0ahUKEwjXs7XkjLDbAhUS0lMKHY3ZAzEQ6AEIRzAD#v=onepage&q=Create%20and%20use%20custom%20usage%20event%20type%20in%20SharePoint%202013&f=false
 
+## Google Analytics and SharePoint Integration
+
+http://www.sharepointdiary.com/2014/05/how-to-integrate-google-analytics-with-sharepoint.html#ixzz5HC6VllCA
+
+http://blog.bananatag.com/internal-comms/setting-up-google-analytics-for-your-intranet-2
 
