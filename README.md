@@ -96,3 +96,7 @@ http://sharepoint.handsontek.net/2017/02/26/how-to-add-google-analytics-to-share
 
 https://docs.microsoft.com/en-us/powershell/module/sharepoint-server/set-spusagedefinition?view=sharepoint-ps
 
+## SharePoint 2010 Logging Database
+
+https://www.codeproject.com/Articles/70865/SharePoint-Logging-Database
+
