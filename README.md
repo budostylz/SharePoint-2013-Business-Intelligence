@@ -92,3 +92,7 @@ http://blog.bananatag.com/internal-comms/setting-up-google-analytics-for-your-in
 
 http://sharepoint.handsontek.net/2017/02/26/how-to-add-google-analytics-to-sharepoint-without-modifying-the-master-page/
 
+## Set-SPUsageDefinition
+
+https://docs.microsoft.com/en-us/powershell/module/sharepoint-server/set-spusagedefinition?view=sharepoint-ps
+
