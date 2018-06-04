@@ -100,3 +100,8 @@ https://docs.microsoft.com/en-us/powershell/module/sharepoint-server/set-spusage
 
 https://www.codeproject.com/Articles/70865/SharePoint-Logging-Database
 
+## Microsoft SharePoint Search Analytics In PowerShell – GetAnalyticsItemData
+
+http://home.mpcomputers.de/microsoft-sharepoint-search-analytics-in-powershell-getanalyticsitemdata/
+
+
