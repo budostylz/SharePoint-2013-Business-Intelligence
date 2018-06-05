@@ -104,4 +104,8 @@ https://www.codeproject.com/Articles/70865/SharePoint-Logging-Database
 
 http://home.mpcomputers.de/microsoft-sharepoint-search-analytics-in-powershell-getanalyticsitemdata/
 
+## Configure Usage And Health Data Collection In SharePoint 2013 Central Administration
+
+https://www.c-sharpcorner.com/article/configure-usage-and-health-data-collection-in-sharepoint-2013-central-administra/
+
 
