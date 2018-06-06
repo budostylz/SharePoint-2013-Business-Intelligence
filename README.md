@@ -111,3 +111,7 @@ https://www.c-sharpcorner.com/article/configure-usage-and-health-data-collection
 ## How Do You Measure SharePoint – Metrics for Business Users
 
 https://veroniquepalmer.com/2009/10/05/how-do-you-measure-sharepoint-metrics-for-business-users/
+
+## Measuring Page Load Speed with Navigation Timing
+
+https://www.html5rocks.com/en/tutorials/webperformance/basics/
