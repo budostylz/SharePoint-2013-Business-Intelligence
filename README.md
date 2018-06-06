@@ -108,4 +108,6 @@ http://home.mpcomputers.de/microsoft-sharepoint-search-analytics-in-powershell-g
 
 https://www.c-sharpcorner.com/article/configure-usage-and-health-data-collection-in-sharepoint-2013-central-administra/
 
+## How Do You Measure SharePoint – Metrics for Business Users
 
+https://veroniquepalmer.com/2009/10/05/how-do-you-measure-sharepoint-metrics-for-business-users/
