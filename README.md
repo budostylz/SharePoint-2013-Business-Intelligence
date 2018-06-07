@@ -119,3 +119,7 @@ https://www.html5rocks.com/en/tutorials/webperformance/basics/
 ## Measuring SharePoint site success with usage reports
 
 http://icansharepoint.com/measuring-sharepoint-site-success-with-usage-reports/
+
+## Configure usage and health data collection in SharePoint Server
+
+https://docs.microsoft.com/en-us/sharepoint/administration/configure-usage-and-health-data-collection
