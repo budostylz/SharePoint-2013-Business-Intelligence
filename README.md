@@ -127,3 +127,7 @@ https://docs.microsoft.com/en-us/sharepoint/administration/configure-usage-and-h
 ## Create an Excel Services dashboard using a Data Model (SharePoint Server 2013)
 
 https://docs.microsoft.com/en-us/sharepoint/administration/create-an-excel-services-dashboard-using-a-data-model-sharepoint-server-2013
+
+## SharePoint 2013: How to Choose Between Web Analytics and Google Analytics
+
+https://social.technet.microsoft.com/wiki/contents/articles/15468.sharepoint-2013-how-to-choose-between-web-analytics-and-google-analytics.aspx
