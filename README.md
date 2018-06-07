@@ -131,3 +131,7 @@ https://docs.microsoft.com/en-us/sharepoint/administration/create-an-excel-servi
 ## SharePoint 2013: How to Choose Between Web Analytics and Google Analytics
 
 https://social.technet.microsoft.com/wiki/contents/articles/15468.sharepoint-2013-how-to-choose-between-web-analytics-and-google-analytics.aspx
+
+## Web Analytics In SharePoint Server 2013
+
+https://www.c-sharpcorner.com/article/web-analytics-in-sharepoint-server-2013/
