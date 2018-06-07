@@ -123,3 +123,7 @@ http://icansharepoint.com/measuring-sharepoint-site-success-with-usage-reports/
 ## Configure usage and health data collection in SharePoint Server
 
 https://docs.microsoft.com/en-us/sharepoint/administration/configure-usage-and-health-data-collection
+
+## Create an Excel Services dashboard using a Data Model (SharePoint Server 2013)
+
+https://docs.microsoft.com/en-us/sharepoint/administration/create-an-excel-services-dashboard-using-a-data-model-sharepoint-server-2013
