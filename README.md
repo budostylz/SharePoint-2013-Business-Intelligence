@@ -115,3 +115,7 @@ https://veroniquepalmer.com/2009/10/05/how-do-you-measure-sharepoint-metrics-for
 ## Measuring Page Load Speed with Navigation Timing
 
 https://www.html5rocks.com/en/tutorials/webperformance/basics/
+
+## Measuring SharePoint site success with usage reports
+
+http://icansharepoint.com/measuring-sharepoint-site-success-with-usage-reports/
