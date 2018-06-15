@@ -135,3 +135,11 @@ https://social.technet.microsoft.com/wiki/contents/articles/15468.sharepoint-201
 ## Web Analytics In SharePoint Server 2013
 
 https://www.c-sharpcorner.com/article/web-analytics-in-sharepoint-server-2013/
+
+## Hit (Internet)
+
+https://en.wikipedia.org/wiki/Hit_(Internet)
+
+## Unique user
+
+https://en.wikipedia.org/wiki/Unique_user
