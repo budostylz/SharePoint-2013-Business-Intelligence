@@ -143,3 +143,7 @@ https://en.wikipedia.org/wiki/Hit_(Internet)
 ## Unique user
 
 https://en.wikipedia.org/wiki/Unique_user
+
+## Using the Excel Services JavaScript API to Work with Embedded Excel Workbooks
+
+https://docs.microsoft.com/en-us/previous-versions/office/developer/sharepoint-2010/hh315812(v=office.14)
