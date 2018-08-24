@@ -147,3 +147,11 @@ https://en.wikipedia.org/wiki/Unique_user
 ## Using the Excel Services JavaScript API to Work with Embedded Excel Workbooks
 
 https://docs.microsoft.com/en-us/previous-versions/office/developer/sharepoint-2010/hh315812(v=office.14)
+
+## SAP BusinessObjects Integration Option for SharePoint Software 4.1
+
+https://blogs.sap.com/2015/05/30/sap-businessobjects-integration-option-for-sharepoint-software-41/
+
+## Reporting Services Report Server (SharePoint Mode)
+
+https://docs.microsoft.com/en-us/sql/reporting-services/report-server-sharepoint/reporting-services-report-server-sharepoint-mode?view=sql-server-2017
